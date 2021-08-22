@@ -6,7 +6,7 @@
  
  This repository contains the STL files to print the rocket and a simple program to run on the Micto:bit.
 
- The program expects a chain of 10 NeoPixels to be installed on pin 2 of the Micro:bit.
+ The program expects a chain of 10 NeoPixels to be installed on pin 2 of the Micro:bit. To install, drag-and-drop on to your Micro:bit, or open it in the MakeCode Editor and install from there.
 
  When you press the A button the colour changes, when you press the B button the brightness changes.
 
