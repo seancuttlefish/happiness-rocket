@@ -1,4 +1,4 @@
-# HappinessRocket
+# Happiness Rocket
  
  The Happiness Rocket is a modular rocket that you can 3D print and install a BBC Micro:bit inside.
  
